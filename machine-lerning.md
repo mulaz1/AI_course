@@ -35,7 +35,7 @@ iris = load_iris()
 iris.keys()
 ```
 
-###formalismo standard 
+### formalismo standard 
 
 > *__x__ sono le feature ( insieme di classificazioni dei valori delle colonne delle features*
 
