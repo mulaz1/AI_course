@@ -1,3 +1,4 @@
 # AI course
-Artificial Intelligence Course Notes, UNIPR A.A 2020
+BIG DATA E BUSINESS INTELLIGENCE Notes, UNIPR A.A 2020
+Prof Giulio Angani
 
