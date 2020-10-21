@@ -1,0 +1,4 @@
+# AI course
+BIG DATA E BUSINESS INTELLIGENCE Notes, UNIPR A.A 2020
+Prof Giulio Angani
+
