@@ -81,4 +81,3 @@ clf.predict_proba([[5, 1.6]])
 ```
 
  __Piu' si e' lontani dalla linea creata dal logaritmo piu' la probabilita' di azzeccarci diminuisce__
-
