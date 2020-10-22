@@ -34,7 +34,7 @@ strutturati
 * Sintassi non strutturate
 
 
-### Soluzione...
+#### Soluzione...
 
 1. Abbiamo un testo in linguaggio naturale da analizzare
 2. Vogliamo capire se parla di un argomento o di un altro
@@ -45,7 +45,7 @@ strutturati
    *  Eientra nelle categorie di interesse ?
 
 
-###problemi 
+### Problemi...
 * __Classificazione__
 * Costruzione di __dataset__ 
 * __Labeling__ della instanza ( fatta da una persona )
@@ -53,7 +53,7 @@ strutturati
 * __Addestramento__ del classificatore
 * __Valutazione__ delle prestazioni
 
-##esempio Labeling ( categoria: stagioni )
+## esempio Labeling ( categoria: stagioni )
 
 ```python 
 
@@ -67,7 +67,7 @@ In questa stagione è bello camminare anche sotto le stelle : PRIMAVERA
 Domenica, se fa caldo, faremo un bel picnic in mezzo ai fiori : PRIMAVERA
 
 ```
-##Librerie Python
+## Librerie Python
 
 __Pandas__  [link](htpps://pandas.pydata.org/)
 * E' una libreria software scritta per Python per la manipolazione e l'analisi dei dati. In particolare, offre strutture dati e operazioni per la manipolazione di tabelle numeriche e serie temporali.
