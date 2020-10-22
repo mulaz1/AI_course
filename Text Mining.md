@@ -6,7 +6,7 @@
 
 > Non fa distinzioni dal tipo di lingua utilizzata
 
-[slide](slide/Text mainin.pdf)
+slide -> slide/Text mainin.pdf
 
 #### Dove lo possiamo trovare...
 
